@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NierAutomata.Plugins", "NierAutomata.Plugins.csproj", "{F9B5C93B-BD5B-CEED-EEF5-F511F86ED1B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NierAutomata", "NierAutomata.csproj", "{750B6DBB-3481-7FF8-FCB5-F2AA8F594204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NierAutomata.Editor.Plugins", "NierAutomata.Editor.Plugins.csproj", "{58E85849-6E25-A168-6FCC-C0FB7F5E5901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9B5C93B-BD5B-CEED-EEF5-F511F86ED1B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B5C93B-BD5B-CEED-EEF5-F511F86ED1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B5C93B-BD5B-CEED-EEF5-F511F86ED1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B5C93B-BD5B-CEED-EEF5-F511F86ED1B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750B6DBB-3481-7FF8-FCB5-F2AA8F594204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750B6DBB-3481-7FF8-FCB5-F2AA8F594204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750B6DBB-3481-7FF8-FCB5-F2AA8F594204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750B6DBB-3481-7FF8-FCB5-F2AA8F594204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E85849-6E25-A168-6FCC-C0FB7F5E5901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E85849-6E25-A168-6FCC-C0FB7F5E5901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E85849-6E25-A168-6FCC-C0FB7F5E5901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E85849-6E25-A168-6FCC-C0FB7F5E5901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
